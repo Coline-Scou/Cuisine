@@ -23,7 +23,7 @@
    - Laisser reposer la pâte pendant **30 minutes** à température ambiante. Cela permet aux ingrédients de se lier correctement et donne des crêpes plus légères.
 
 3. **Cuisson des crêpes** :
-   - Chauffer une [poêle antiadhésive](https://exemple.com/lien-vers-la-page) à feu moyen et la graisser légèrement avec du beurre ou de l'huile.
+   - Chauffer une [poêle antiadhésive](page2.md) à feu moyen et la graisser légèrement avec du beurre ou de l'huile.
    - Verser une petite louche de pâte dans la poêle et faire tourner rapidement la poêle pour bien répartir la pâte.
    - Laisser cuire environ 1 à 2 minutes, jusqu'à ce que les bords commencent à se détacher.
    - Retourner la crêpe et cuire encore 1 minute sur l'autre face.
