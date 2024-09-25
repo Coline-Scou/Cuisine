@@ -29,6 +29,38 @@
    - Retourner la crêpe et cuire encore 1 minute sur l'autre face.
    - **Astuce** : Graisser légèrement la poêle entre chaque crêpe pour éviter qu'elles n'accrochent.
 
+> "La perfection des crêpes réside dans la cuisson. Ne les retournez ~~jamais~~ trop tôt !"  
+> \- Un grand chef inconnu.
+
+---
+
+## Temps de cuisson
+
+| Étape             | Temps (minutes) |
+| ----------------- | --------------- |
+| Préparation       | 10              |
+| Repos de la pâte  | 30              |
+| Cuisson           | 1-2 par crêpe   |
+
+---
+
+## Liste des garnitures possibles
+
+Vous pouvez accompagner vos crêpes avec différentes garnitures selon vos goûts :
+
+- **Sucré** :
+  - Sucre en poudre
+  - Confiture (fraises, abricots, etc.)
+  - Nutella
+  - Sirop d'érable
+- **Salé** :
+  - Jambon
+  - Fromage
+  - Oeufs
+
+A partir de là jsp
+
+
 4. **Dégustation** :
    - Servir les crêpes chaudes avec les garnitures de votre choix : sucre, confiture, pâte à tartiner, sirop d'érable, fruits, etc.
 
