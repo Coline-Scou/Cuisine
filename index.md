@@ -1,3 +1,10 @@
+<style>
+  body {
+    background-color: #ADD8E6; /* Bleu clair */
+  }
+</style>
+
+
 # 🥞 Recette de Crêpes Traditionnelles
 
 ## Ingrédients (pour environ 10 crêpes)
