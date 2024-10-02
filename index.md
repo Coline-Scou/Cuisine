@@ -59,6 +59,7 @@ Vous pouvez accompagner vos crêpes avec différentes garnitures selon vos goût
 
 - **Sucré** :
   - Sucre en poudre
+  - [Compote de pommes maison](page3.md)
   - Confiture
   - Nutella
   - Sirop d'érable
