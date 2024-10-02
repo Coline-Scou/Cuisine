@@ -71,4 +71,4 @@ Vérifiez que la poêle est compatible avec votre type de cuisson :
 
 ---
 
-Bon shopping et cuisinez avec plaisir ! 🍳
+Faites votre choix et régalez-vous ! 🍳
