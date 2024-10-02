@@ -4,6 +4,12 @@
   }
 </style>
 
+<style>
+  body {
+    color: #4B2E0F; /* Marron */
+  }
+</style>
+
 
 # 🥞 Recette de Crêpes Traditionnelles
 
