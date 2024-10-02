@@ -68,7 +68,6 @@ Vérifiez que la poêle est compatible avec votre type de cuisson :
 - **Tefal** : Connue pour ses poêles antiadhésives fiables et accessibles.
 - **GreenPan** : Spécialiste des revêtements céramiques écologiques.
 - **Le Creuset** : Qualité premium, durabilité garantie.
-
 <img src="image logo tefal.png" alt="Description de l'image" width="250" />  <img src="image logo le creuset.png" alt="Description de l'image" width="250" />
 
 ---
