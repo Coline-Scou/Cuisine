@@ -26,8 +26,10 @@
    - Ajouter le beurre fondu ou l'huile, ainsi que l'arôme (rhum ou vanille) si vous en utilisez.
    - **Astuce** : Si la pâte est trop épaisse, ajouter un peu d'eau ou de lait pour la rendre plus fluide.
 
+
 2. **Repos de la pâte** :
    - Laisser reposer la pâte pendant **30 minutes** à température ambiante. Cela permet aux ingrédients de se lier correctement et donne des crêpes plus légères.
+
 
 3. **Cuisson des crêpes** :
    - Chauffer une [poêle antiadhésive](page2.md) à feu moyen et la graisser légèrement avec du beurre ou de l'huile.
@@ -41,7 +43,7 @@
 
 ---
 
-## Temps de cuisson
+## Temps de préparation et cuisson
 
 | Étape             | Temps (minutes) |
 | ----------------- | --------------- |
@@ -51,13 +53,13 @@
 
 ---
 
-## Liste des garnitures possibles
+## Idées de garnitures
 
 Vous pouvez accompagner vos crêpes avec différentes garnitures selon vos goûts :
 
 - **Sucré** :
   - Sucre en poudre
-  - Confiture (fraises, abricots, etc.)
+  - Confiture
   - Nutella
   - Sirop d'érable
 - **Salé** :
@@ -65,11 +67,6 @@ Vous pouvez accompagner vos crêpes avec différentes garnitures selon vos goût
   - Fromage
   - Oeufs
 
-A partir de là jsp
-
-
-4. **Dégustation** :
-   - Servir les crêpes chaudes avec les garnitures de votre choix : sucre, confiture, pâte à tartiner, sirop d'érable, fruits, etc.
 
 ## Conseils
 
