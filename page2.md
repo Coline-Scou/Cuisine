@@ -12,7 +12,7 @@
 
 # 🍳 Comment choisir sa poêle antiadhésive ?
 
-![Alt text](image poele crepes.jpg)
+<img src="image poele crepes.jpg" alt="Description de l'image" width="300" />
 
 ## Critères essentiels à considérer
 
