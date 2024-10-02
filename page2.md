@@ -72,3 +72,5 @@ Vérifiez que la poêle est compatible avec votre type de cuisson :
 ---
 
 Faites votre choix et régalez-vous ! 🍳
+
+![Alt text](image quatre poeles.jpg)
