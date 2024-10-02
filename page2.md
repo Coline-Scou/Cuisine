@@ -69,6 +69,8 @@ Vérifiez que la poêle est compatible avec votre type de cuisson :
 - **GreenPan** : Spécialiste des revêtements céramiques écologiques.
 - **Le Creuset** : Qualité premium, durabilité garantie.
 
+<img src="image logo tefal.png" alt="Description de l'image" width="250" />  <img src="image logo le creuset.png" alt="Description de l'image" width="250" />
+
 ---
 
 Faites votre choix et régalez-vous ! 🍳
