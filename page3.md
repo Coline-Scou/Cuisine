@@ -1,6 +1,6 @@
 <style>
   body {
-    background-color: #F5E79E; /* Jaune crêpe */
+    background-color: #B0E57C; /* Vert Pomme pâle */
   }
 </style>
 
@@ -56,7 +56,7 @@
 
 La compote de pommes se déguste parfaitement seule ou accompagnée de :
 
-- Crêpes ([Recette des crêpes maison](page2.md))
+- Crêpes ([Recette des crêpes maison](index.md))
 - Pain perdu
 - Gaufres
 - Yaourt nature
