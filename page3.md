@@ -1,6 +1,6 @@
 <style>
   body {
-    background-color: #B0E57C; /* Vert Pomme pâle */
+    background-color: #D4F1C5; /* Vert Pomme pâle */
   }
 </style>
 
