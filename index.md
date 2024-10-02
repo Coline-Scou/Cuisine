@@ -7,6 +7,9 @@
 
 # 🥞 Recette de Crêpes Traditionnelles
 
+![Alt text](crepes image.jpg)
+
+
 ## Ingrédients (pour environ 10 crêpes)
 
 - **250g** de farine
