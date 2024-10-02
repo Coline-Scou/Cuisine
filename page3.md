@@ -23,20 +23,23 @@
    - Éplucher les pommes, retirer le cœur et les couper en petits morceaux.
    - Mettre les morceaux de pommes dans une grande casserole.
 
+
 2. **Cuisson** :
    - Ajouter l'eau et le jus de citron dans la casserole avec les pommes.
    - Porter à ébullition à feu moyen, puis réduire à feu doux.
    - Laisser mijoter pendant **15 à 20 minutes**, en remuant de temps en temps, jusqu'à ce que les pommes soient tendres.
+
 
 3. **Mixer la compote** :
    - Une fois les pommes cuites, retirer du feu.
    - Utiliser un mixeur ou un presse-purée pour obtenir une compote lisse. Pour une compote avec des morceaux, écraser légèrement avec une cuillère en bois.
    - Ajouter le sucre et la cannelle selon vos goûts, puis mélanger.
 
+
 4. **Dégustation** :
    - Servir la compote chaude ou froide, selon vos préférences.
    - **Astuce** : La compote se conserve au réfrigérateur pendant 3 à 4 jours.
-   - 
+  
 ---
 
 ## Temps de préparation et cuisson
