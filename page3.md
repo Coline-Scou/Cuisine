@@ -44,7 +44,7 @@
 
 4. **Dégustation** :
    - Servir la compote chaude ou froide, selon vos préférences.
-   - **Astuce** : La compote se conserve au réfrigérateur pendant 3 à 4 jours.
+   - **À savoir** : La compote se conserve au réfrigérateur pendant 3 à 4 jours.
   
 ---
 
@@ -77,4 +77,4 @@ La compote de pommes se déguste parfaitement seule ou accompagnée de :
 
 ---
 
-Bon appétit et profitez de votre compote maison ! 🍏
+Bonne dégustation ! 🍏
