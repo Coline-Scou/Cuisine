@@ -1,6 +1,6 @@
 <style>
   body {
-    background-color: #ADD8E6; /* Bleu clair */
+    background-color: #F5E79E; /* Jaune crêpe */
   }
 </style>
 
