@@ -36,10 +36,7 @@
 4. **Dégustation** :
    - Servir la compote chaude ou froide, selon vos préférences.
    - **Astuce** : La compote se conserve au réfrigérateur pendant 3 à 4 jours.
-
-> "La clé d'une compote réussie réside dans le juste équilibre entre douceur et acidité."  
-> \- Un chef passionné
-
+   - 
 ---
 
 ## Temps de préparation et cuisson
