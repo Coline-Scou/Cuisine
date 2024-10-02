@@ -6,7 +6,7 @@
 
 # 🍏🍎 Recette de Compote de Pommes Maison
 
-![Alt text](pommes image.jpg)
+![Alt text](image pommes.jpg)
 
 
 ## Ingrédients (pour environ 4 personnes)
