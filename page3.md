@@ -4,7 +4,7 @@
   }
 </style>
 
-# Recette de Compote de Pommes Maison 🍏🍎
+# 🍏🍎 Recette de Compote de Pommes Maison
 
 ![Alt text](pommes image.jpg)
 
