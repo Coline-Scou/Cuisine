@@ -14,6 +14,8 @@
 
 <img src="image poele crepes.jpg" alt="Description de l'image" width="450" />
 
+=================
+
 ## Critères essentiels à considérer
 
 Choisir la bonne poêle antiadhésive peut faire toute la différence dans la cuisine. Voici les critères principaux à prendre en compte :
