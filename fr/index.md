@@ -13,7 +13,7 @@
 
 # 🥞 Recette de Crêpes Traditionnelles
 
-![Alt text](image crepes.jpg)
+![Alt text](..image crepes.jpg)
 
 
 ## Ingrédients (pour environ 10 crêpes)
