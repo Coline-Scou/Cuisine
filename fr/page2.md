@@ -12,7 +12,7 @@
 
 # 🍳 Comment choisir sa poêle antiadhésive ?
 
-<img src="..image poele crepes.jpg" alt="Description de l'image" width="450" />
+<img src="../image poele crepes.jpg" alt="Description de l'image" width="450" />
 
 
 ## Critères essentiels à considérer
@@ -70,7 +70,7 @@ Vérifiez que la poêle est compatible avec votre type de cuisson :
 - **Le Creuset** : Qualité premium, durabilité garantie.
 - **GreenPan** : Spécialiste des revêtements céramiques écologiques.
 
-<img src="image logo tefal.png" alt="Description de l'image" width="175" />  <img src="image logo le creuset.png" alt="Description de l'image" width="175" />  <img src="image logo greenpan.jpg" alt="Description de l'image" width="175" />
+<img src="../image logo tefal.png" alt="Description de l'image" width="175" />  <img src="../image logo le creuset.png" alt="Description de l'image" width="175" />  <img src="../image logo greenpan.jpg" alt="Description de l'image" width="175" />
 
 ---
 
