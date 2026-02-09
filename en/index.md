@@ -13,7 +13,7 @@
 
 # 🥞 Traditional Pancake Recipe
 
-\![Alt text\](../image crepes.jpg)
+<img src="../image crepes.jpg" alt="Description de l&apos;image" width="450" />
 
 
 ## Ingredients (for about 10 pancakes)
