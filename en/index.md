@@ -13,7 +13,7 @@
 
 # 🥞 Traditional Pancake Recipe
 
-<img src="../image crepes.jpg" alt="Description de l&apos;image" width="450" />
+<img src="../image crepes.jpg" alt="Description de l&apos;image" />
 
 
 ## Ingredients (for about 10 pancakes)
@@ -54,7 +54,12 @@
 
 ## Preparation and cooking times
 
-| Step | Time (minutes) | ----------------- | --------------- | | Preparation | 10 | | Rest of batter | 30 | | Cooking | 1-2 per pancake |
+
+| Step              | Time  (minutes) |
+| ----------------- | --------------- |
+| Preparation       | 10              |
+| Rest of batter    | 30              |
+| Cooking           | 1-2 per pancake |
 
 ---
 
