@@ -12,7 +12,7 @@
 
 # 🍏🍎 Recipe for Homemade Apple Compote
 
-\![Alt text\](../image pommes.jpg)
+<img src="../image pommes.jpg" alt="Description de l&apos;image" />
 
 
 ## Ingredients (serves about 4)
@@ -50,7 +50,11 @@
 
 ## Preparation and cooking times
 
-| Step | Time (minutes) | ----------------- | --------------- | | Preparation | 10 | | Cooking | 15-20 | | Finishing | 5 |
+| Step              | Time  (minutes) |
+| ----------------- | --------------- |
+| Preparation       | 10              |
+| Cooking           | 15-20           |
+| Finishing         | 5               |
 
 ---
 
